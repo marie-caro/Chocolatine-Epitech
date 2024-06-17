@@ -15,8 +15,8 @@ What we had to do:
       -  Push to a mirror repository
 
 # Final evaluation
-![Final evaluation of the porject](ReadMeImgs/Notas.png)
+![Final evaluation of the porject](ReadMeImg/Notas.png)
 
 # Repo structure
 In order to test if I completed correctly the tasks, I added my project to an existing project with the following structure
-![Repo Structuer](ReadMeImgs/Structure_Testing.png)
+![Repo Structuer](ReadMeImg/Structure_Testing.png)
